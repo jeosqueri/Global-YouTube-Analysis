@@ -1,5 +1,5 @@
 # Global-YouTube-Analysis
-An analysis of trending YouTube data in 10 countries
+An analysis of trending YouTube data from 2017-2018 in 10 countries
 
 **Note:** This repository is a copy of the original repository used for this project. I have copied this so I can deploy my own version and have the repository on my account. The link to the original repository for this group project can be found below. The project description below is copied over from the original repository.
 
@@ -25,7 +25,7 @@ Project Overview
 ### Dataset
 
 The data used for this project 
-can be found [here](https://www.kaggle.com/datasnaek/youtube-new). The final dataset included the data for 10 counties (*N*= 45,698). Individual CSVs were downloaded, cleaned, and merged together for analysis. The original CSV files for each country can be found in the 'Data' folder, and the cleaned CSVs used for analysis can be found in the 'CSVs' folder. The Jupyter Notebooks used to clean and transform the data can be found in the 'Notebooks' folder.
+can be found [here](https://www.kaggle.com/datasnaek/youtube-new). The final dataset included the data for 10 counties (*N*= 45,698) and contained all of the trending YouTube videos from the years 2017-2018. Individual CSVs were downloaded, cleaned, and merged together for analysis. The original CSV files for each country can be found in the 'Data' folder, and the cleaned CSVs used for analysis can be found in the 'CSVs' folder. The Jupyter Notebooks used to clean and transform the data can be found in the 'Notebooks' folder.
 
 **Countries Analyzed**
 - US
